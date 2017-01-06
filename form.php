@@ -18,7 +18,7 @@ $customer = array(
 
 $order = array(
 	'amount' => 100.00,
-	'orderid' => 'xxx'
+	'orderid' => 'xxx' . time()
 );
 
 $formParams = array(
