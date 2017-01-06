@@ -13,7 +13,7 @@ $customer = array(
 	'postcode' => 'PL1 1AA',
 	'town' => 'Plymouth',
 	'country' => 'England',
-	'tel' => '01234567890'
+	'telephone' => '01234567890'
 );
 
 $order = array(
